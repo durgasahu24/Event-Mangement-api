@@ -2,8 +2,8 @@
   "name": "event-mangement",
   "type": "module",
   "scripts": {
-    "node":"node index.js",
-    "dev":"nodemon index.js"
+    "node": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "dotenv": "^17.2.3",
